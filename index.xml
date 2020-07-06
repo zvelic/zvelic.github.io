@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zeyu | Cris</title>
@@ -6,63 +6,55 @@
     <description>Recent content on Zeyu | Cris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate>
     
 	<atom:link href="https://zeyu.velic.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>https://zeyu.velic.xyz/blog/amazon-increase-income.1/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <title>Pocket Ballroom</title>
+      <link>https://zeyu.velic.xyz/projects/pocket-ballroom/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://zeyu.velic.xyz/blog/amazon-increase-income.1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://zeyu.velic.xyz/projects/pocket-ballroom/</guid>
+      <description>About Pocket Ballroom is the perfect app for Ballroom dance lovers to learn, to connect, and to share!</description>
     </item>
     
     <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>https://zeyu.velic.xyz/blog/amazon-increase-income.2/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <title>Money Management App</title>
+      <link>https://zeyu.velic.xyz/projects/money-management-app/</link>
+      <pubDate>Wed, 12 Jun 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://zeyu.velic.xyz/blog/amazon-increase-income.2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://zeyu.velic.xyz/projects/money-management-app/</guid>
+      <description>Main Functions Record and analyse user&amp;rsquo;s income and expenditure.
+My Responsibilities UI design for &amp;ldquo;Account&amp;rdquo;, &amp;ldquo;Analysis&amp;rdquo;, &amp;ldquo;Add Record&amp;rdquo;.</description>
     </item>
     
     <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>https://zeyu.velic.xyz/blog/amazon-increase-income.3/</link>
+      <title>Nbber</title>
+      <link>https://zeyu.velic.xyz/projects/nbber/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://zeyu.velic.xyz/blog/amazon-increase-income.3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://zeyu.velic.xyz/projects/nbber/</guid>
+      <description>About Nbber was a news app facing the Brazilian market that recommended customized news to its users.</description>
     </item>
     
     <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>https://zeyu.velic.xyz/blog/amazon-increase-income.4/</link>
+      <title>WildChina</title>
+      <link>https://zeyu.velic.xyz/projects/wildchina/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://zeyu.velic.xyz/blog/amazon-increase-income.4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://zeyu.velic.xyz/projects/wildchina/</guid>
+      <description>About WildChina is a tailor-made luxury travel agency that creates life-changing experiences for its clients.</description>
     </item>
     
     <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>https://zeyu.velic.xyz/blog/amazon-increase-income.5/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <title>Unitedtofu</title>
+      <link>https://zeyu.velic.xyz/projects/unitedtofu/</link>
+      <pubDate>Sat, 12 May 2018 12:14:34 +0600</pubDate>
       
-      <guid>https://zeyu.velic.xyz/blog/amazon-increase-income.5/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>https://zeyu.velic.xyz/blog/amazon-increase-income/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://zeyu.velic.xyz/blog/amazon-increase-income/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://zeyu.velic.xyz/projects/unitedtofu/</guid>
+      <description>About Unitedtofu is a tofu lovers&amp;rsquo; Instagram community where we share our fusion style tofu dish photos and recipes.</description>
     </item>
     
   </channel>

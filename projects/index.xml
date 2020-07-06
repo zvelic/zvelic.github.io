@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Zeyu | Cris</title>
+    <link>https://zeyu.velic.xyz/projects/</link>
+    <description>Recent content in Projects on Zeyu | Cris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
+    
+	<atom:link href="https://zeyu.velic.xyz/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pocket Ballroom</title>
+      <link>https://zeyu.velic.xyz/projects/pocket-ballroom/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://zeyu.velic.xyz/projects/pocket-ballroom/</guid>
+      <description>About Pocket Ballroom is the perfect app for Ballroom dance lovers to learn, to connect, and to share!</description>
+    </item>
+    
+    <item>
+      <title>Money Management App</title>
+      <link>https://zeyu.velic.xyz/projects/money-management-app/</link>
+      <pubDate>Wed, 12 Jun 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://zeyu.velic.xyz/projects/money-management-app/</guid>
+      <description>Main Functions Record and analyse user&amp;rsquo;s income and expenditure.
+My Responsibilities UI design for &amp;ldquo;Account&amp;rdquo;, &amp;ldquo;Analysis&amp;rdquo;, &amp;ldquo;Add Record&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Nbber</title>
+      <link>https://zeyu.velic.xyz/projects/nbber/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://zeyu.velic.xyz/projects/nbber/</guid>
+      <description>About Nbber was a news app facing the Brazilian market that recommended customized news to its users.</description>
+    </item>
+    
+    <item>
+      <title>WildChina</title>
+      <link>https://zeyu.velic.xyz/projects/wildchina/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://zeyu.velic.xyz/projects/wildchina/</guid>
+      <description>About WildChina is a tailor-made luxury travel agency that creates life-changing experiences for its clients.</description>
+    </item>
+    
+    <item>
+      <title>Unitedtofu</title>
+      <link>https://zeyu.velic.xyz/projects/unitedtofu/</link>
+      <pubDate>Sat, 12 May 2018 12:14:34 +0600</pubDate>
+      
+      <guid>https://zeyu.velic.xyz/projects/unitedtofu/</guid>
+      <description>About Unitedtofu is a tofu lovers&amp;rsquo; Instagram community where we share our fusion style tofu dish photos and recipes.</description>
+    </item>
+    
+  </channel>
+</rss>

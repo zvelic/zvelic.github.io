@@ -1,40 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zeyu.velic.xyz/blog/amazon-increase-income.1/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+    <loc>https://zeyu.velic.xyz/projects/pocket-ballroom/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zeyu.velic.xyz/blog/amazon-increase-income.2/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+    <loc>https://zeyu.velic.xyz/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zeyu.velic.xyz/blog/amazon-increase-income.3/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zeyu.velic.xyz/blog/amazon-increase-income.4/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zeyu.velic.xyz/blog/amazon-increase-income.5/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zeyu.velic.xyz/blog/amazon-increase-income/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zeyu.velic.xyz/blog/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+    <loc>https://zeyu.velic.xyz/projects/money-management-app/</loc>
+    <lastmod>2019-06-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
@@ -48,19 +28,31 @@
   </url>
   
   <url>
-    <loc>https://zeyu.velic.xyz/</loc>
+    <loc>https://zeyu.velic.xyz/projects/nbber/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zeyu.velic.xyz/projects/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zeyu.velic.xyz/projects/wildchina/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zeyu.velic.xyz/projects/unitedtofu/</loc>
+    <lastmod>2018-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://zeyu.velic.xyz/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://zeyu.velic.xyz/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
