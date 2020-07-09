@@ -12,12 +12,21 @@
     
     
     <item>
+      <title>Juit</title>
+      <link>https://zeyu.velic.xyz/projects/juit/</link>
+      <pubDate>Thu, 12 Sep 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://zeyu.velic.xyz/projects/juit/</guid>
+      <description>Juit - Good food at work. Juit allows people to have easy access to healthy and delicious meals at work.</description>
+    </item>
+    
+    <item>
       <title>Pocket Ballroom</title>
       <link>https://zeyu.velic.xyz/projects/pocket-ballroom/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <pubDate>Mon, 12 Aug 2019 12:14:34 +0600</pubDate>
       
       <guid>https://zeyu.velic.xyz/projects/pocket-ballroom/</guid>
-      <description>About Pocket Ballroom is the perfect app for Ballroom dance lovers to learn, to connect, and to share!</description>
+      <description>Pocket Ballroom is the perfect app for Ballroom dance lovers to learn, to connect, and to share!</description>
     </item>
     
     <item>
@@ -26,8 +35,17 @@
       <pubDate>Wed, 12 Jun 2019 12:14:34 +0600</pubDate>
       
       <guid>https://zeyu.velic.xyz/projects/money-management-app/</guid>
-      <description>Main Functions Record and analyse user&amp;rsquo;s income and expenditure.
-My Responsibilities UI design for &amp;ldquo;Account&amp;rdquo;, &amp;ldquo;Analysis&amp;rdquo;, &amp;ldquo;Add Record&amp;rdquo;.</description>
+      <description>Main Functions: Record and analyse user&amp;rsquo;s income and expenditure.
+Target Group: People who are interested in tracking their consuming behaviors as well as achieving better money management.</description>
+    </item>
+    
+    <item>
+      <title>WildChina</title>
+      <link>https://zeyu.velic.xyz/projects/wildchina/</link>
+      <pubDate>Wed, 12 Jun 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://zeyu.velic.xyz/projects/wildchina/</guid>
+      <description>WildChina is a tailor-made luxury travel agency that creates life-changing experiences for its clients.</description>
     </item>
     
     <item>
@@ -36,16 +54,7 @@ My Responsibilities UI design for &amp;ldquo;Account&amp;rdquo;, &amp;ldquo;Anal
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
       <guid>https://zeyu.velic.xyz/projects/nbber/</guid>
-      <description>About Nbber was a news app facing the Brazilian market that recommended customized news to its users.</description>
-    </item>
-    
-    <item>
-      <title>WildChina</title>
-      <link>https://zeyu.velic.xyz/projects/wildchina/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://zeyu.velic.xyz/projects/wildchina/</guid>
-      <description>About WildChina is a tailor-made luxury travel agency that creates life-changing experiences for its clients.</description>
+      <description>Nbber was a news app facing the Brazilian market that gathered news from diverse media channels and recommended customized news to its users.</description>
     </item>
     
     <item>
@@ -54,7 +63,7 @@ My Responsibilities UI design for &amp;ldquo;Account&amp;rdquo;, &amp;ldquo;Anal
       <pubDate>Sat, 12 May 2018 12:14:34 +0600</pubDate>
       
       <guid>https://zeyu.velic.xyz/projects/unitedtofu/</guid>
-      <description>About Unitedtofu is a tofu lovers&amp;rsquo; Instagram community where we share our fusion style tofu dish photos and recipes.</description>
+      <description>Unitedtofu is a tofu lovers&amp;rsquo; Instagram community where we share our fusion style tofu dish photos and recipes.</description>
     </item>
     
   </channel>
