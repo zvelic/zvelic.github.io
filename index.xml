@@ -6,7 +6,7 @@
     <description>Recent content on Zeyu | Cris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Sep 2019 12:14:34 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2019 12:14:34 +0600</lastBuildDate>
     
 	<atom:link href="https://zeyu.velic.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,28 +14,37 @@
     <item>
       <title>Juit</title>
       <link>https://zeyu.velic.xyz/projects/juit/</link>
-      <pubDate>Thu, 12 Sep 2019 12:14:34 +0600</pubDate>
+      <pubDate>Mon, 25 Nov 2019 12:14:34 +0600</pubDate>
       
       <guid>https://zeyu.velic.xyz/projects/juit/</guid>
       <description>Juit - Good food at work. Juit allows people to have easy access to healthy and delicious meals at work.</description>
     </item>
     
     <item>
+      <title>Inu-Health</title>
+      <link>https://zeyu.velic.xyz/projects/inu/</link>
+      <pubDate>Fri, 11 Oct 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://zeyu.velic.xyz/projects/inu/</guid>
+      <description>Inu Health is a digital Cognitive behavioural therapy (CBT) program for managing menstrual related symptoms for women who wish to take back control of their lives again.</description>
+    </item>
+    
+    <item>
       <title>Pocket Ballroom</title>
       <link>https://zeyu.velic.xyz/projects/pocket-ballroom/</link>
-      <pubDate>Thu, 12 Sep 2019 12:14:34 +0600</pubDate>
+      <pubDate>Sun, 01 Sep 2019 12:14:34 +0600</pubDate>
       
       <guid>https://zeyu.velic.xyz/projects/pocket-ballroom/</guid>
       <description>Pocket Ballroom is the perfect app for Ballroom dance lovers to learn, to connect, and to share!</description>
     </item>
     
     <item>
-      <title>Inu-Health</title>
-      <link>https://zeyu.velic.xyz/projects/inu/</link>
-      <pubDate>Wed, 11 Sep 2019 12:14:34 +0600</pubDate>
+      <title>Inst News (previous Nbber)</title>
+      <link>https://zeyu.velic.xyz/projects/nbber/</link>
+      <pubDate>Sat, 31 Aug 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://zeyu.velic.xyz/projects/inu/</guid>
-      <description>Inu Health is a digital Cognitive behavioural therapy (CBT) program for managing menstrual related symptoms for women who wish to take back control of their lives again.</description>
+      <guid>https://zeyu.velic.xyz/projects/nbber/</guid>
+      <description>Inst News (previous Nbber) was a news app facing the Brazilian market that gathered news from diverse media channels and recommended customized news to its users.</description>
     </item>
     
     <item>
@@ -55,15 +64,6 @@ Target Group: People who are interested in tracking their consuming behaviors as
       
       <guid>https://zeyu.velic.xyz/projects/wildchina/</guid>
       <description>WildChina is a tailor-made luxury travel agency that creates life-changing experiences for its clients.</description>
-    </item>
-    
-    <item>
-      <title>Nbber</title>
-      <link>https://zeyu.velic.xyz/projects/nbber/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://zeyu.velic.xyz/projects/nbber/</guid>
-      <description>Nbber was a news app facing the Brazilian market that gathered news from diverse media channels and recommended customized news to its users.</description>
     </item>
     
     <item>
