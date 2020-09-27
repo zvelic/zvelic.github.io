@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zeyu.velic.xyz/projects/juit/</loc>
-    <lastmod>2019-11-25T12:14:34+06:00</lastmod>
+    <loc>https://zeyu.velic.xyz/projects/inu/</loc>
+    <lastmod>2019-11-25T12:15:00+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://zeyu.velic.xyz/</loc>
+    <lastmod>2019-11-25T12:15:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zeyu.velic.xyz/projects/juit/</loc>
     <lastmod>2019-11-25T12:14:34+06:00</lastmod>
   </url>
   

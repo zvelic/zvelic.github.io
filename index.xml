@@ -6,10 +6,19 @@
     <description>Recent content on Zeyu | Cris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2019 12:14:34 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2019 12:15:00 +0600</lastBuildDate>
     
 	<atom:link href="https://zeyu.velic.xyz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Inu-Health</title>
+      <link>https://zeyu.velic.xyz/projects/inu/</link>
+      <pubDate>Mon, 25 Nov 2019 12:15:00 +0600</pubDate>
+      
+      <guid>https://zeyu.velic.xyz/projects/inu/</guid>
+      <description>Inu Health is a digital Cognitive behavioural therapy (CBT) program for managing menstrual related symptoms for women who wish to take back control of their lives again.</description>
+    </item>
     
     <item>
       <title>Juit</title>
